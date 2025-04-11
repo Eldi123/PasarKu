@@ -81,9 +81,9 @@ To make PasarKu appealing, it needs to solve specific problems better than tradi
 - How It Works: Charge a small fee (e.g., 0.5-1% of each transaction) on top of the blockchain gas fees, collected via the smart contract when funds are released from escrow.
 
 - Why It Works: 
-It’s much lower than centralized platforms (5-15%), keeping PasarKu competitive.
+1. It’s much lower than centralized platforms (5-15%), keeping PasarKu competitive.
 
-Fees go to the project’s wallet address, programmed into the contract.
+2. Fees go to the project’s wallet address, programmed into the contract.
 
 - Example: A 50,000 IDR sale with a 1% fee = 500 IDR profit per transaction. With 1,000 daily sales, that’s 500,000 IDR (~$32 USD) per day.
 
