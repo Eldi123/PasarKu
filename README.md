@@ -76,7 +76,7 @@ To make PasarKu appealing, it needs to solve specific problems better than tradi
 
 - User Appeal: Vendors feel valued and part of a fair ecosystem tailored to their needs.
 
-## PasarKu Potential Sources of Income
+## PasarKu Future Potential Sources of Income
 ### 1. Transaction Fees (Low, Blockchain-Based)
 - How It Works: Charge a small fee (e.g., 0.5-1% of each transaction) on top of the blockchain gas fees, collected via the smart contract when funds are released from escrow.
 
